@@ -12,3 +12,7 @@
 <p>
 	<a href="https://www.typescriptlang.org/">Typescriptlang</a>
 </p>
+<h1>JSON Server</h1>
+<p>
+	<a href="https://github.com/typicode/json-server">JSON Server</a>
+</p>
