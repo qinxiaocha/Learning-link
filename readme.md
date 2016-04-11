@@ -16,3 +16,9 @@
 <p>
 	<a href="https://github.com/typicode/json-server">JSON Server</a>
 </p>
+<h1>
+  Sublime Package Control
+</h1>
+<p>
+    <a href="https://packagecontrol.io/installation">Sublime Package Control</a>
+</p>
